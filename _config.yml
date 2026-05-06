@@ -6,7 +6,7 @@ favicon: https://zlxydl.github.io/images/favicon.ico
 
 navigation:
   - name: 个人介绍
-    url: /personal
+    url: /pages
   - name: 首页
     url: /
   - name: 关于
