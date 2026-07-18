@@ -5,8 +5,8 @@ avatar: https://zlxydl.github.io/images/avatar.png
 favicon: https://zlxydl.github.io/images/favicon.ico
 
 navigation:
-  - name: 个人介绍
-    url: /personal
+#  - name: 个人介绍
+#    url: /personal
   - name: 首页
     url: /
   - name: 关于
@@ -26,8 +26,6 @@ footer-links:
   rss: welcome!
   twitter: 
   youtube:
-
-footer-text: Copyright (c) 2024-2025 zlxydl
 
 url: https://zlxydl.github.io
 
